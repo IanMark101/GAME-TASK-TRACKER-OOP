@@ -1,0 +1,14 @@
+C:\Users\Administrator\GameTaskTracker\bin\Debug\net9.0\GameTaskTracker.exe
+C:\Users\Administrator\GameTaskTracker\bin\Debug\net9.0\GameTaskTracker.deps.json
+C:\Users\Administrator\GameTaskTracker\bin\Debug\net9.0\GameTaskTracker.runtimeconfig.json
+C:\Users\Administrator\GameTaskTracker\bin\Debug\net9.0\GameTaskTracker.dll
+C:\Users\Administrator\GameTaskTracker\bin\Debug\net9.0\GameTaskTracker.pdb
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\GameTaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\GameTaskTracker.AssemblyInfoInputs.cache
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\GameTaskTracker.AssemblyInfo.cs
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\GameTaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\GameTaskTracker.dll
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\refint\GameTaskTracker.dll
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\GameTaskTracker.pdb
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\GameTaskTracker.genruntimeconfig.cache
+C:\Users\Administrator\GameTaskTracker\obj\Debug\net9.0\ref\GameTaskTracker.dll
